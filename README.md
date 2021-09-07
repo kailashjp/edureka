@@ -1,1 +1,1 @@
-# edureka
+tutorial of git and github.
